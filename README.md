@@ -1,2 +1,2 @@
-# chess_srever
-chess server
+# NodeServer
+This is a Node Server for Checkers.
